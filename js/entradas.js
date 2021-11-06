@@ -23,7 +23,7 @@ function total(){
                 break;
     
             case "Junior": 
-                precioTotal = (precio * cantEntradas.value) * 0.75;
+                precioTotal = (precio * cantEntradas.value) * 0.85;
                 fname.value = `Total a Pagar:$ ${precioTotal}`;
                 break;
     
