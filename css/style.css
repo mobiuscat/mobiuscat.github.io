@@ -1,0 +1,46 @@
+.carousel-caption {
+    position: absolute;
+    right: 10%;
+    bottom: 10px;
+    left: 50%; 
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: white;
+    text-align: right;
+    font-size: 5px;
+    font-weight: bolder;
+}
+
+.textoCentrado{
+    text-align: center;
+}
+
+.btnSubmit{
+    background-color: yellowgreen;
+}
+
+footer {
+    background-color: #03495E;
+    color: white;
+    padding: 18px 4px;
+    cursor: pointer;
+    width: 100%;
+    font-size: 12px;
+    text-align: center
+    
+}
+
+.textoVenta{
+    text-align: center;
+    font-size: medium;
+}
+
+input.totalAPagar {
+    color:blue;
+    background-color: #cce5ff;
+}
+
+input.totalAPagar:focus {
+    color:blue;
+    background-color: #cce5ff;
+}
